@@ -1,2 +1,2 @@
 # Smart-Lighting-System---Proteus
-Read Project report for code and problem statement.
+All the problem details and code are present in Project Report.pdf
